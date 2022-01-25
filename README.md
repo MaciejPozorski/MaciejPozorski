@@ -1,17 +1,18 @@
 # Hello everyone!
 
 ## Moje umiejętności:
-- [x] angielski na poziomie C1
+- [x] angielski na poziomie B1
 - [x] programowanie w C#
 
 
 ## Doświadczenie:
-#### Od 3 lat pracuje jako technik audio-wizualny.
-Obsługuje sprzęt, realizuje nagrania i transmisje wydarzeń, dbam o bezpieczeństwo.
+#### Od 2019 roku pracuje jako technik audio-wizualny.
+Obsługuje sprzęt, realizuje nagrania i transmisje na żywo, dbam o bezpieczeństwo.
 
 
 ## Wykształcenie:
 IV Liceum Ogólnokształcące w Gdańsku
+Aktualnie jestem studentem informatyki na uczelni WSB w Gdańsku
 
 <!--
 **MaciejPozorski/MaciejPozorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
