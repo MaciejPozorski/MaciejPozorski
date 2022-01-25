@@ -7,12 +7,12 @@
 
 ## Doświadczenie:
 #### Od 2019 roku pracuje jako technik audio-wizualny.
-Obsługuje sprzęt, realizuje nagrania i transmisje na żywo, dbam o bezpieczeństwo.
+- Obsługuje sprzęt, realizuje nagrania i transmisje na żywo, dbam o bezpieczeństwo.
 
 
 ## Wykształcenie:
-IV Liceum Ogólnokształcące w Gdańsku
-Aktualnie jestem studentem informatyki na uczelni WSB w Gdańsku
+- IV Liceum Ogólnokształcące w Gdańsku
+- Aktualnie jestem studentem informatyki na uczelni WSB w Gdańsku
 
 <!--
 **MaciejPozorski/MaciejPozorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
